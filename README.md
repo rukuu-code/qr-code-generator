@@ -4,3 +4,5 @@
 Generated QR codes can be found in documents folder ***C:\Users\\User\Documents***
 
 You can change the directory via the main code 
+
+Executable file is also available on **EXE** folder
