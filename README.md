@@ -1,2 +1,2 @@
 # qr-code-generator
-A simple python qr generator
+**A simple python qr generator**
